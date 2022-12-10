@@ -32,3 +32,7 @@ You might need to set default formatter for the each file extension. To do this:
 - Open up the `index.html` file
 - Press `ctrl + shift + p` then select `Format Document`
 - Visual Code will ask to set a default formatter and select `Prettier`.
+
+## Intellisense
+
+Install the [Tailwind CSS Intellisense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) plugin for Visual Code.
