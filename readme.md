@@ -19,6 +19,8 @@ Run it locally.
 npm start
 ```
 
+Open up `http://localhost:1234`.
+
 ## Autoformatting (Prettier)
 
 - Install the Prettier extension on Visual Code.
